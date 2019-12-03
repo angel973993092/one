@@ -3,6 +3,7 @@ package com.zero.demo9;
 public class demo9 {
     public static void main(String[] args) {
         System.out.println(1);
+        System.out.println(2);
     }
 }
 class SellTick2 implements Runnable{
